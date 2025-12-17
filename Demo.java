@@ -14,7 +14,7 @@ package abstract_class;
 }
 class kiaan extends Madhu{
 	
-	
+	System.out.println("hi this is new update")
 	
 	void m1() {
 		
@@ -34,3 +34,4 @@ public class Demo {
 	}
 
 }
+
