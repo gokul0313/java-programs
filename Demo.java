@@ -5,6 +5,7 @@ package abstract_class;
 	 abstract  void m1();
 	Madhu(){ 
 		System.out.println("hi from madhu");
+		System.out.println("what can do for my future it was so confused for mee")
 	}
 
 		
@@ -34,3 +35,4 @@ public class Demo {
 	}
 
 }
+
